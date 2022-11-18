@@ -1,5 +1,3 @@
-# Personal-Website-and-Projects
+# C++ Projects
 
-This is Arvind!
-
-I am a first year ECE student at the University of Waterloo. I want to get better at programming through creating more personal projects.
+This is the location for all my C++ projects. 
